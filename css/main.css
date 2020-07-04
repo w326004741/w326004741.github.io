@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #6e8f38;
+  background: #7c0df6;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3125,14 +3125,4 @@ pre .javascript .function {
 }
 .site-meta {
   background: $black;
-}
-@media (max-width: 767px) {
-  #live2dcanvas {
-    display: none;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  #live2dcanvas {
-    display: none;
-  }
 }
